@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis Dashboard
+# Telecom Customer Churn Analysis Dashboard
 
 ## Live App
 https://churnanalysiss.streamlit.app/
